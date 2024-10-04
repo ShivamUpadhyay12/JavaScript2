@@ -53,3 +53,6 @@ let booleanIsLoggedIn1 = Boolean(isLoggedIn1)
 //let stringNumber = String(someNumber)
  //console.log(stringNumber);//33
  //console.log(typeof stringNumber);//string
+  
+// link to study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
